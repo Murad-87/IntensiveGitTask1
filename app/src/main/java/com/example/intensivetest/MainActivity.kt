@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val test = ""
+        val test2 = ""
 
         val text : TextView = findViewById(R.id.tv_counter)
         val btn : Button = findViewById(R.id.btn_click)
